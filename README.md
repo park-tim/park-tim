@@ -1,4 +1,4 @@
-#Hi, I'm Tim!🚀 Mastering the MERN stack and building my path towards becoming a Cloud-certified Developer.
+Hi, I'm Tim!🚀 Mastering the MERN stack and building my path towards becoming a Cloud-certified Developer.
 
 <!--
 **park-tim/park-tim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
